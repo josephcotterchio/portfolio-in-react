@@ -18,10 +18,9 @@ function App() {
           scroll
         >
           <Navigation>
-            <Link to="/Resume">Resume</Link>
-            <Link to="/Aboutme">About Me</Link>
+            <Link to="/About">About Me</Link>
             <Link to="/Projects">Projects</Link>
-            <Link to="/Contact">Contact</Link>
+            <Link to="/Main">Main</Link>
           </Navigation>
         </Header>
         <Drawer
