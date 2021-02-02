@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This is a sandbox project to explore Material UI and the React Portfolio project suggested on Code Academy.
+
 ## Available Scripts
 
 In the project directory, you can run:
