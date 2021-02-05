@@ -9,24 +9,18 @@ class Home extends Component {
           <Cell col={12}>
             <div className="profile-img-border">
               <img
-                //className="profile-img"
-                //src="images/DSC_5211-00.jpg"
-                //alt="Joe"
+              //className="profile-img"
+              //src="images/DSC_5211-00.jpg"
+              //alt="Joe"
               />
             </div>
             <div className="banner-text">
               <h1>Full Stack Developer</h1>
               <hr />
-              <p>
-                HTML | CSS | JS | REACT
-              </p>
+              <p>HTML | CSS | JS | REACT</p>
               <div className="social-links">
                 {/* Twitter */}
-                <a
-                  href=""
-                  rel="noopener noreferrer"
-                  target="_blank"
-                >
+                <a href="" rel="noopener noreferrer" target="_blank">
                   {" "}
                   <i
                     className="fa fa-twitter-square"
@@ -34,24 +28,16 @@ class Home extends Component {
                   ></i>{" "}
                 </a>
                 {/* Github */}
-                <a
-                  href=""
-                  rel="noopener noreferrer"
-                  target="_blank"
-                >
-                  {" "}
+                <a href="" rel="noopener noreferrer" target="_blank">
+                  {"https://github.com/josephcotterchio"}
                   <i
                     className="fa fa-github-square"
                     aria-hidden="true"
                   ></i>{" "}
                 </a>
                 {/* LinkedIn */}
-                <a
-                  href=""
-                  rel="noopener noreferrer"
-                  target="_blank"
-                >
-                  {" "}
+                <a href="" rel="noopener noreferrer" target="_blank">
+                  {"https://www.linkedin.com/in/joe-cotterchio-milligan/"}
                   <i
                     className="fa fa-linkedin-square"
                     aria-hidden="true"

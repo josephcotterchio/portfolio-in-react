@@ -21,9 +21,7 @@ class Projects extends Component {
     };
 
     this.chatApplication = () => {
-      window.location.assign(
-        "https://github.com/"
-      );
+      window.location.assign("https://github.com/josephcotterchio");
     };
     this.calculator = () => {
       window.location.assign(
@@ -31,7 +29,7 @@ class Projects extends Component {
       );
     };
     this.portfolio = () => {
-      window.location.assign("https://github.com/");
+      window.location.assign("https://github.com/josephcotterchio");
     };
     this.portfoliolive = () => {
       window.location.assign("https:");
