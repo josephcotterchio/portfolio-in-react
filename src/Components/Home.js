@@ -25,7 +25,7 @@ class Home extends Component {
                   <i
                     className="fa fa-twitter-square"
                     aria-hidden="true"
-                  ></i>{" "}
+                  ></i>{"https://twitter.com/CotterchioJoe"}
                 </a>
                 {/* Github */}
                 <a href="" rel="noopener noreferrer" target="_blank">

@@ -8,7 +8,7 @@ import Projects from "./Projects";
 const Main = () => {
   return (
     <Switch>
-      <Route exact path="/" component={Home} />
+      <Route exact path="/Home" component={Home} />
       <Route path="/Projects" component={Projects} />
       <Route path="/About" component={About} />
     </Switch>
